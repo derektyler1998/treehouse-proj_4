@@ -1,6 +1,10 @@
-/* =========== */
-/*    Utilities Imports */
-/* =========== */
+/* ======= */
+// Components Imports //
 
-@import "./mixins",
-        "./variables"
+
+@import "./button",
+        "./forms",
+        "./navigation",
+        "./images",
+        "./grid",
+        "./media-queries"
